@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Colorful",
+        "repositoryURL": "https://github.com/Edhoru/Colorful",
+        "state": {
+          "branch": null,
+          "revision": "fe2dc5ac1ad80b45bb919e385536faa2cf234871",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

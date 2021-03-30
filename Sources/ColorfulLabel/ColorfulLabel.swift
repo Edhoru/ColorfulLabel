@@ -1,3 +1,10 @@
-struct ColorfulLabel {
-    var text = "Hello, World!"
+import UIKit
+import Colorful
+
+extension UILabel {
+    
+    public func paint() {
+        backgroundColor = UIColor.greeny
+    }
+    
 }
